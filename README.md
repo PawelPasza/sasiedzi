@@ -1,2 +1,0 @@
-# sasiedzi
-Sąsiedzi Polski
